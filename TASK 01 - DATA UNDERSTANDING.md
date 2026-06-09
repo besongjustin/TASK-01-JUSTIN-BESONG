@@ -1,12 +1,12 @@
 # Task 1: Data Collection & Dataset Understanding
-**Author:** Besong Justin | **Internship:** Decode Labs Data Analytics Programme  
+**Author:** Besong Justin | **Internship:** DecodeLabs Data Analytics Programme  
 **Batch:** 15th May 2026 – 15th June 2026
 
 ---
 
 ## 1. Dataset Overview
 
-The dataset used for this project is a fictional e-commerce sales dataset provided as part of the Decode Labs Data Analytics Internship. It simulates real-world transactional data from an online store, capturing customer orders across multiple products, payment methods, and referral sources.
+The dataset used for this project is an e-commerce sales dataset provided as part of the DecodeLabs Data Analytics Internship. It simulates real-world transactional data from an online store, capturing customer orders across multiple products, payment methods, and referral sources.
 
 - **File format:** CSV / Excel (.xlsx)
 - **Total rows:** 1,200 (each row represents one order)
@@ -72,18 +72,3 @@ The data can be used to answer key business questions such as:
 - Are there any unusually high-value orders worth flagging?
 
 It provides a realistic simulation of the kind of data a business analyst would encounter in an e-commerce or retail environment, making it suitable for practising data cleaning, exploratory analysis, SQL querying, and visual reporting.
-
----
-
-## 5. Tools Used for This Project
-
-- Microsoft Excel — initial data exploration and cleaning
-- SQL Server Management Studio (SSMS) — data cleaning and querying
-- Microsoft Power BI — data visualization and dashboard building
-
----
-
-## Author
-**Besong Justin**
-- LinkedIn: [linkedin.com/in/besong-justin](https://linkedin.com/in/besong-justin)
-- Twitter/X: [@Justin_analyst](https://twitter.com/Justin_analyst)
